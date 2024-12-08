@@ -1,5 +1,5 @@
-int LEDpin = 13;
-int delayT = 1000;
+int LEDpin = 12;
+int delayT = 500;
 void setup() {
   // put your setup code here, to run once:
 pinMode(LEDpin, OUTPUT);
