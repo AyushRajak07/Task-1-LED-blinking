@@ -43,4 +43,5 @@ Duration-10th DEC. 2024 to 10 Jan. 2025
 4. **Common Uses**:
    - Ideal for prototyping IoT devices, robotics, and interactive electronics.
    - Frequently used in education for learning embedded systems and programming. 
+![New Arduino Uno Project - Wokwi Simulator - Google Chrome 08-12-2024 19_28_06](https://github.com/user-attachments/assets/e617565b-8d9f-442a-921c-48149610f7ce)
 
