@@ -1,12 +1,12 @@
-#LED blinking Task 1
+### LED blinking Task 1
 Name-
 Company-
 ID-
 Domain-
 Duration-
 
-##Overview of project
- #Key Takeaways and Learnings from the LED Blinking Code:
+## Overview of project
+ # Key Takeaways and Learnings from the LED Blinking Code:
 1. **Understanding Arduino Programming Basics**:
    - Learned how to write, upload, and debug Arduino code using the Arduino IDE.
    - Familiarized with the syntax of Arduino C/C++ (e.g., `void setup()` and `void loop()`).
@@ -24,7 +24,7 @@ Duration-
 
 ---
 
-##Basic Information About the Arduino Uno Board:
+## Basic Information About the Arduino Uno Board:
 1. **Overview**:
    - The Arduino Uno is a microcontroller board based on the ATmega328P.
    - It is beginner-friendly and widely used for electronics and embedded systems projects.
