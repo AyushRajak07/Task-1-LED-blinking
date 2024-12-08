@@ -1,9 +1,9 @@
-### LED blinking Task 1
-Name-
-Company-
-ID-
-Domain-
-Duration-
+## LED blinking Task 1
+Name-AYUSH RAJAK
+Company-CODTECH IT SOLUTIONS
+ID-CT08DS10353
+Domain-Embedded systems
+Duration-10th DEC. 2024 to 10 Jan. 2025
 
 ## Overview of project
  # Key Takeaways and Learnings from the LED Blinking Code:
